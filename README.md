@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+# My name is __Amir__! 
+I am _17_ years old and was born in __Greece__ but currently live in the __Middle East__. I am a senior in high school taking a Computer Coding class. 
 
+My hobbies are:
++ Video games
++ Painting
++ Reading
 <!--
 **amiralnaber/amiralnaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
